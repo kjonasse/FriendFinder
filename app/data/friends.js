@@ -100,7 +100,7 @@ var friends = [
       "4",
       "5"
     ]
-  }
+  },
 
   {
     name: "Melanie Pickle",
@@ -117,7 +117,7 @@ var friends = [
       "4",
       "5"
     ]
-  }
+  },
 
   {
     name: "Sophia Melide",
@@ -134,7 +134,7 @@ var friends = [
       "4",
       "5"
     ]
-  }
+  },
 
   {
     name: "Rita Jones",
@@ -151,7 +151,7 @@ var friends = [
       "4",
       "5"
     ]
-  }
+  },
 
   {
     name: "James Dryer",
