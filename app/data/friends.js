@@ -6,8 +6,8 @@
 
 var friends = [
   {
-    name: "Ahmed",
-    photo: "https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAq7AAAAJDAwYzI4NTQ4LWYwZWUtNGFkYS1hNTYwLTZjYzkwY2ViZDA3OA.jpg",
+    name: "Jessie Caldwell",
+    photo: "https://github.com/kjonasse/FriendFinder/blob/master/assets/images/pic3.jpg",
     scores: [
       "5",
       "1",
@@ -22,8 +22,8 @@ var friends = [
     ]
   },
   {
-    name: "Jacob Deming",
-    photo: "https://pbs.twimg.com/profile_images/691785039043022849/oWsy8LNR.jpg",
+    name: "Jacklyn Frye",
+    photo: "https://github.com/kjonasse/FriendFinder/blob/master/assets/images/pic4.jpg",
     scores: [
       "4",
       "2",
@@ -38,8 +38,8 @@ var friends = [
     ]
   },
   {
-    name: "Jeremiah Scanlon",
-    photo: "https://avatars2.githubusercontent.com/u/8504998?v=3&s=460",
+    name: "Michelle Taylor",
+    photo: "https://github.com/kjonasse/FriendFinder/blob/master/assets/images/pic5.jpg",
     scores: [
       "5",
       "2",
@@ -54,8 +54,8 @@ var friends = [
     ]
   },
   {
-    name: "Louis T. Delia",
-    photo: "https://pbs.twimg.com/profile_images/639214960049000449/lNCRC-ub.jpg",
+    name: "Jason Gouldeman",
+    photo: "https://github.com/kjonasse/FriendFinder/blob/master/assets/images/pic6.jpg",
     scores: [
       "3",
       "3",
@@ -70,8 +70,8 @@ var friends = [
     ]
   },
   {
-    name: "Lou Ritter",
-    photo: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAkDAAAAJDhhZTI5NTk2LWQzZjUtNDJjZi1hMTM2LTQ3ZjNmYjE0YmY2NA.jpg",
+    name: "Nancy Freeman",
+    photo: "https://github.com/kjonasse/FriendFinder/blob/master/assets/images/pic1.jpg",
     scores: [
       "4",
       "3",
@@ -86,8 +86,76 @@ var friends = [
     ]
   },
   {
-    name: "Jordan Biason",
-    photo: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAisAAAAJGUxYzc4YzA0LWQxMzUtNGI4NS04YTFiLTkwYzM0YTZkNzA2NA.jpg",
+    name: "Jackie Smithmeyer",
+    photo: "https://github.com/kjonasse/FriendFinder/blob/master/assets/images/pic2.jpg",
+    scores: [
+      "4",
+      "4",
+      "2",
+      "3",
+      "2",
+      "2",
+      "3",
+      "2",
+      "4",
+      "5"
+    ]
+  }
+
+  {
+    name: "Melanie Pickle",
+    photo: "https://github.com/kjonasse/FriendFinder/blob/master/assets/images/pic7.jpg",
+    scores: [
+      "4",
+      "4",
+      "2",
+      "3",
+      "2",
+      "2",
+      "3",
+      "2",
+      "4",
+      "5"
+    ]
+  }
+
+  {
+    name: "Sophia Melide",
+    photo: "https://github.com/kjonasse/FriendFinder/blob/master/assets/images/pic8.jpg",
+    scores: [
+      "4",
+      "4",
+      "2",
+      "3",
+      "2",
+      "2",
+      "3",
+      "2",
+      "4",
+      "5"
+    ]
+  }
+
+  {
+    name: "Rita Jones",
+    photo: "https://github.com/kjonasse/FriendFinder/blob/master/assets/images/pic9.jpg",
+    scores: [
+      "4",
+      "4",
+      "2",
+      "3",
+      "2",
+      "2",
+      "3",
+      "2",
+      "4",
+      "5"
+    ]
+  }
+
+  {
+    name: "James Dryer",
+    photo: "https://github.com/kjonasse/FriendFinder/blob/master/assets/images/pic10.jpg",
     scores: [
       "4",
       "4",
